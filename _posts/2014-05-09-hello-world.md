@@ -2,6 +2,7 @@
 layout: post
 title: Hello World!
 category: new
+tags: [新东西]
 ---
 
 虽然wordpress被禁了，一直坚持用主要是因为支持LaTex公式比较方便。前几天看到Markddown好像也能支持了。
