@@ -1,6 +1,6 @@
 *{box-sizing:border-box; -moz-box-sizing:border-box; -webkit-box-sizing:border-box;}
 html,body,h1,h2,h3,h4,h5,h6,ul,ol,li,p,form,dl,dt,dd,figure{margin:0; padding:0; border:0;}
-body{line-height:1.6em; font-family:Helvetica, Arial, sans-serif; color:#555;background: url(http://mbed.qiniudn.com/yanjunyi.com/img/bg-light.jpg) fixed;}
+body{line-height:1.6em; font-family:Helvetica, Arial, sans-serif; color:#555;}
 a{margin:0 2px; color:#06c; text-decoration:none;}
 a:hover{text-decoration:underline;}
 h1 a,h2 a,h3 a,h4 a,h5 a,h6 a{margin:0;}
@@ -38,7 +38,7 @@ header{font-size:80%;}
 header h1 .minor{color:#999; font-weight:normal;}
 header .additional{font-size:90%; color:#ccc;}
 
-aside{background: url(http://mbed.qiniudn.com/yanjunyi.com/img/bg-light.jpg) fixed; font-size:75%;}
+aside{background: url(./code/bg-light.jpg) fixed; font-size:75%;}
 aside h2{margin:1em 0;}
 aside .feed-link{margin-left:0.5em; color: #d81;}
 aside nav ul{list-style:none; line-height:1.5em;}
