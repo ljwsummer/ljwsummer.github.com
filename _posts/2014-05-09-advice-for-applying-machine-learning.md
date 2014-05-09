@@ -91,7 +91,7 @@ training set error最小化并不是我们的最终目标，我们的最终目�
 
 ##bias/variance分析
 
-对于bias和variance的定义，可以看一下下面这段字，是从大cmu的考试题里摘出来的，讲的比较简单易懂。
+对于bias和variance的定义，可以看一下下面这段字，是从大CMU的考试题里摘出来的，讲的比较简单易懂。
 
 ![bias_variance](/images/2014-05-09/bv.jpg "bias/variance")
 
