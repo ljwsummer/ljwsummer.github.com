@@ -38,7 +38,7 @@ header{font-size:80%;}
 header h1 .minor{color:#999; font-weight:normal;}
 header .additional{font-size:90%; color:#ccc;}
 
-aside{background:rgba(238,238,238,.4); font-size:75%;}
+aside{background: url(http://mbed.qiniudn.com/yanjunyi.com/img/bg-light.jpg) fixed; font-size:75%;}
 aside h2{margin:1em 0;}
 aside .feed-link{margin-left:0.5em; color: #d81;}
 aside nav ul{list-style:none; line-height:1.5em;}
