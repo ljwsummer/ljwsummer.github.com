@@ -11,14 +11,26 @@ desc: 想到什么写什么
 
 custom:
     category:
-        default: Default Category
-        another: Another Category
+        life: 生活
+        travel: 旅游
+        machinelearning: 机器学习
+        new: 新东西
+        default: 未分类
     categories:
-      - name:  default
-        title: Default Category
+      - name:  life
+        title: 生活杂谈
 
-      - name:  another
-        title: Another Category
+      - name:  travel
+        title: 旅游
+      
+      - name: machinelearning
+        title: 机器学习
+
+      - name: new
+        title: 新东西
+
+      - name: default
+        title: 未分类
 
     scrollingLoadCount: 2                          # 滚屏自动加载文章数量，“0”为关闭
 
