@@ -5,7 +5,7 @@ permalink: /posts/:title.html
 exclude:
   - README.md
 
-name: Jiawang / Blog
+name: Random
 host: yourdomain.com
 desc: 想到什么写什么
 
