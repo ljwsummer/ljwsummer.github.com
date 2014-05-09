@@ -34,6 +34,8 @@ input,textarea{resize:none;}
 	}
 }
 
+.main{background-color: #fff;}
+
 header{font-size:80%;}
 header h1 .minor{color:#999; font-weight:normal;}
 header .additional{font-size:90%; color:#ccc;}
