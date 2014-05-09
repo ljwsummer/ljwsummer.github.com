@@ -1,8 +1,7 @@
 ---
 layout: post
 title: "机器学习模型调试"
-description: ""
-category: 机器学习
+category: machinelearning
 tags: [MachineLearning]
 ---
 
