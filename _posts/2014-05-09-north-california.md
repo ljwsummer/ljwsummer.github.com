@@ -53,9 +53,6 @@ Carmel 小镇上遍地这种漂亮的房子。。看了下价格都要  $7 milli
 
 这是 17 miles 中我最喜欢的一处，照片感觉还是拍不出来效果，真实要比照片上好看很多很多倍，还在这里面看到好几头野生鹿。
 
-![sm][13]
-
-最后来一张大神马吧，不解释~
 
   [1]: https://farm8.staticflickr.com/7296/14125234646_e5f854352a_b.jpg
   [2]: https://farm6.staticflickr.com/5500/13961781290_d3323fa425_b.jpg
@@ -69,4 +66,3 @@ Carmel 小镇上遍地这种漂亮的房子。。看了下价格都要  $7 milli
   [10]: https://farm8.staticflickr.com/7310/14125220426_de5c873526_b.jpg
   [11]: https://farm6.staticflickr.com/5522/14125213286_71b634fea4_b.jpg
   [12]: https://farm8.staticflickr.com/7384/14148573095_09a84032d2_b.jpg
-  [13]: https://farm3.staticflickr.com/2899/14145093491_9386a9600c_b.jpg
