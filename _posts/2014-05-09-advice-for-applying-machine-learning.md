@@ -41,7 +41,6 @@ training set error最小化并不是我们的最终目标，我们的最终目�
 对于线性回归，training/testing的过程如下：
 
 1. 在training set(70%)上学习 theta, 该 theta 使training error J(theta) 最小；
-
 1. 在test set(30%)上计算test set error.
 
 对于线性回归，test set error的计算方式可以为
@@ -180,15 +179,11 @@ d 增加的过程中，目标函数的 bias 减小， variance 增大，从欠�
 假设我们已经实现了一个带有正则化项的线性回归分类器，当我们在一个新的测试集上测试时发现效果比较差时，我们通常采用的方法和这些方法真正的作用：
 
 * 增加更多的训练数据 —— 修复 high variance 的问题
-
 * 减少features —— 修复 high variance 的问题
-
 * 增加更多features —— 修复 high bias 的问题
-
 * 增加多项式项 —— 修复 high bias 的问题
-
 * 增大正则化项lambda —— 修复 high variance 的问题
-
 * 减小正则化项lambda —— 修复 high bias 的问题
 
 我们前面介绍的一些方法，可以从我们观察到的现象判断处在什么状态，从而采取合适的方法提升模型的效果。
+
