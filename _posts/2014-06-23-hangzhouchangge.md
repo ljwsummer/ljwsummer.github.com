@@ -13,3 +13,6 @@ tags: [Life]
 
 人生真艰难。
 
+![guamian][1]
+[1]: https://farm3.staticflickr.com/2900/14486733244_09c07c64b6_n.jpg
+
